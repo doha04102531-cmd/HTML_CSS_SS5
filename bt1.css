@@ -1,0 +1,14 @@
+h1 {
+    background-color: #1eff29;
+    text-align: center;
+}
+
+p {
+    background-color: #1eff29;
+    text-align: center;
+}
+
+h1,
+p {
+    margin: 0;
+}

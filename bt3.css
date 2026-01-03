@@ -1,0 +1,12 @@
+h3 {
+    color: #1e90ff;
+
+}
+
+h3,
+p,
+b {
+    background-color: #f4f4f9;
+    margin: 0;
+    line-height: 1cm;
+}
